@@ -2,7 +2,7 @@
   "id": 24071998,
   "category": {
     "id": 1,
-    "name": "dog"
+    "name": "QA10ST5TA"
   },
   "name": "Spike",
   "photoUrls": [
@@ -10,8 +10,8 @@
   ],
   "tags": [
     {
-      "id": 2021,
-      "name": "sta"
+      "id": 20210910,
+      "name": "data"
     }
   ],
   "status": "available"
