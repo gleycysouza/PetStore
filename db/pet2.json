@@ -1,0 +1,18 @@
+{
+  "id": 24071998,
+  "category": {
+    "id": 1,
+    "name": "QA10ST5TA"
+  },
+  "name": "Spike",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 20210910,
+      "name": "data"
+    }
+  ],
+  "status": "sold"
+}
